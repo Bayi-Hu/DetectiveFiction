@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>artistName</key>
+	<string>埃德加·爱伦·坡 [Producer, 埃德加·爱伦·坡Book]</string>
+	<key>book-info</key>
+	<dict>
+		<key>cover-image-hash</key>
+		<string>40E79A2525D0BD7ACCCE570D5FBD9B80</string>
+		<key>cover-image-path</key>
+		<string>images/calibre_cover.jpg</string>
+		<key>mime-type</key>
+		<string>application/epub+zip</string>
+		<key>package-file-hash</key>
+		<string>9E78733E605EE7095541F58CCE92B036</string>
+		<key>publisher-unique-id</key>
+		<string>0fb67f18-ce98-446b-ba2c-ca9c056d4781</string>
+		<key>unique-id</key>
+		<integer>-6834809798452726105</integer>
+		<key>update-level</key>
+		<integer>2</integer>
+	</dict>
+	<key>genre</key>
+	<string>lcsh: Novel</string>
+	<key>itemName</key>
+	<string>爱伦·坡短篇小说集</string>
+	<key>playlistName</key>
+	<string>爱伦·坡短篇小说集</string>
+	<key>releaseDate</key>
+	<string>2018-04-19T16:00:00+00:00</string>
+	<key>sort-artist</key>
+	<string>埃德加·爱伦·坡 [Producer, 埃德加·爱伦·坡Book]</string>
+	<key>sort-artist-status</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -1,0 +1,201 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="zho">
+  <head>
+    <meta content="0fb67f18-ce98-446b-ba2c-ca9c056d4781" name="dtb:uid"/>
+    <meta content="3" name="dtb:depth"/>
+    <meta content="calibre (3.23.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>爱伦·坡短篇小说集</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="chapter" id="num_1" playOrder="1">
+      <navLabel>
+        <text>惊悚</text>
+      </navLabel>
+      <content src="index_split_016.html"/>
+      <navPoint class="chapter" id="num_2" playOrder="2">
+        <navLabel>
+          <text>厄舍府之倒塌</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos14776"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_3" playOrder="3">
+        <navLabel>
+          <text>红死病的假面具</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos56231"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_4" playOrder="4">
+        <navLabel>
+          <text>陷坑与钟摆</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos68763"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_5" playOrder="5">
+        <navLabel>
+          <text>幽会</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos103143"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_6" playOrder="6">
+        <navLabel>
+          <text>丽姬娅</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos130732"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_7" playOrder="7">
+        <navLabel>
+          <text>莫雷娜</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos166619"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_8" playOrder="8">
+        <navLabel>
+          <text>贝蕾妮丝</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos179218"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_9" playOrder="9">
+        <navLabel>
+          <text>长方形箱子</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos197380"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_10" playOrder="10">
+        <navLabel>
+          <text>一桶蒙特亚白葡萄酒</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos222953"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_11" playOrder="11">
+        <navLabel>
+          <text>椭圆形画像</text>
+        </navLabel>
+        <content src="index_split_016.html#filepos240117"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_12" playOrder="12">
+      <navLabel>
+        <text>心理</text>
+      </navLabel>
+      <content src="index_split_017.html"/>
+      <navPoint class="chapter" id="num_13" playOrder="13">
+        <navLabel>
+          <text>泄密的心</text>
+        </navLabel>
+        <content src="index_split_017.html#filepos247798"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_14" playOrder="14">
+        <navLabel>
+          <text>威廉·威尔逊</text>
+        </navLabel>
+        <content src="index_split_017.html#filepos260261"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_15" playOrder="15">
+        <navLabel>
+          <text>黑猫</text>
+        </navLabel>
+        <content src="index_split_017.html#filepos304516"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_16" playOrder="16">
+        <navLabel>
+          <text>人群中的人</text>
+        </navLabel>
+        <content src="index_split_017.html#filepos326170"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_17" playOrder="17">
+        <navLabel>
+          <text>过早埋葬</text>
+        </navLabel>
+        <content src="index_split_017.html#filepos345438"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_18" playOrder="18">
+        <navLabel>
+          <text>静——寓言一则</text>
+        </navLabel>
+        <content src="index_split_017.html#filepos376057"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_19" playOrder="19">
+      <navLabel>
+        <text>推理</text>
+      </navLabel>
+      <content src="index_split_018.html"/>
+      <navPoint class="chapter" id="num_20" playOrder="20">
+        <navLabel>
+          <text>莫格街凶杀案</text>
+        </navLabel>
+        <content src="index_split_018.html#filepos383708"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_21" playOrder="21">
+        <navLabel>
+          <text>金甲虫</text>
+        </navLabel>
+        <content src="index_split_018.html#filepos457735"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_22" playOrder="22">
+        <navLabel>
+          <text>被窃之信</text>
+        </navLabel>
+        <content src="index_split_019.html#filepos541497"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_23" playOrder="23">
+        <navLabel>
+          <text>玛丽·罗热疑案[66]——《莫格街凶杀案》续篇</text>
+        </navLabel>
+        <content src="index_split_019.html#filepos585334"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_24" playOrder="24">
+        <navLabel>
+          <text>你就是凶手</text>
+        </navLabel>
+        <content src="index_split_019.html#filepos687842"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_25" playOrder="25">
+      <navLabel>
+        <text>幻想</text>
+      </navLabel>
+      <content src="index_split_020.html"/>
+      <navPoint class="chapter" id="num_26" playOrder="26">
+        <navLabel>
+          <text>莫斯肯漩涡沉浮记</text>
+        </navLabel>
+        <content src="index_split_020.html#filepos719161"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_27" playOrder="27">
+        <navLabel>
+          <text>瓶中手稿</text>
+        </navLabel>
+        <content src="index_split_020.html#filepos756136"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_28" playOrder="28">
+        <navLabel>
+          <text>瓦尔德马先生病例之真相</text>
+        </navLabel>
+        <content src="index_split_020.html#filepos778242"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_29" playOrder="29">
+        <navLabel>
+          <text>山鲁佐德的第一千零二个故事</text>
+        </navLabel>
+        <content src="index_split_020.html#filepos798594"/>
+      </navPoint>
+      <navPoint class="chapter" id="num_30" playOrder="30">
+        <navLabel>
+          <text>莫诺斯与尤拉的对话</text>
+        </navLabel>
+        <content src="index_split_020.html#filepos832743"/>
+      </navPoint>
+    </navPoint>
+    <navPoint class="chapter" id="num_31" playOrder="31">
+      <navLabel>
+        <text>译后记</text>
+      </navLabel>
+      <content src="index_split_021.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
